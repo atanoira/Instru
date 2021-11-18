@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7EB30D8-971C-400D-B604-85A0F91FCD85"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43E164A8-ECA5-4D14-A99E-1F73968EBC95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/EditarPerfilViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "botonInicio(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/EditarPerfilViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "EditarPerfilViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - b99bf14653079831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - 7370f2acaf2df4c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - 5ae4194ac249f739"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - e24b2c07f114505d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - 52f70853eac8434c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlcoholMeter.EditarPerfilViewController"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "DA1C5BCA-34CC-4C92-9723-3418767AA60D - 69dba44140963896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlcoholMeter.EditarPerfilViewController&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/EditarPerfilViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "EditarPerfilViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - b99bf14653079831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - 7370f2acaf2df4c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - 5ae4194ac249f739"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - e24b2c07f114505d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.sexodisplay.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - 52f70853eac8434c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlcoholMeter.EditarPerfilViewController"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "C8327627-61FC-4370-B42E-A60B0CBAE175 - 69dba44140963896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlcoholMeter.EditarPerfilViewController&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD7E53CD-F3EE-4041-A675-C848A59FF17B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/EditarPerfilViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "EditarPerfilViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BD7E53CD-F3EE-4041-A675-C848A59FF17B - 52f70853eac8434c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlcoholMeter.EditarPerfilViewController"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "BD7E53CD-F3EE-4041-A675-C848A59FF17B - 69dba44140963896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.EditarPerfilViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlcoholMeter.EditarPerfilViewController&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/EditarPerfilViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D1B1026-CA07-4D7B-8150-5EDDEB415106"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/Structs/Grid.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2D7AF7A-9A9B-4112-84D1-6DF183310A38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/View/JuegoUnoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "JuegoUnoViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8087E2F9-AF55-4DBA-A107-13E8F9DBE922"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlcoholMeter/View/JuegoUnoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "JuegoUnoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8087E2F9-AF55-4DBA-A107-13E8F9DBE922 - fb22554ca578f289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.JuegoUnoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlcoholMeter.JuegoUnoViewController"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/View/JuegoUnoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "8087E2F9-AF55-4DBA-A107-13E8F9DBE922 - 608bd14a2047b5c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlcoholMeter.JuegoUnoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlcoholMeter.JuegoUnoViewController&gt;"
+                  moduleName = "AlcoholMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natalia/Downloads/AlcoholMeter-main%202/AlcoholMeter/View/JuegoUnoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
